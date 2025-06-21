@@ -2,7 +2,7 @@
 
 ## 🌟 Steps to Run Questify - AI Agent 
 
-1. ⬇️ **Download** the `run.py` from the repository
+1. ⬇️ **Download** or **Clone** the `run.py` and `requirement.txt` from the repository
 2. 📂 **Go to** the downloaded file's folder
 3. 💻 Now in the directory, type `cmd` in the address bar to open **Command Prompt** in that folder
 4. 🐍 Then type `python run.py` to start the backend server
