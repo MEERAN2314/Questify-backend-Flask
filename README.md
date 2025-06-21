@@ -5,7 +5,7 @@
 1. ⬇️ **Download** or **Clone** the `run.py` and `requirement.txt` from the repository
 2. 📂 **Go to** the downloaded file's folder
 3. 💻 Now in the directory, type `cmd` in the address bar to open **Command Prompt** in that folder
-4. ⬇️ Then install the requirements in the system by `pip install -r requirements.txt`
+4. ⬇️ Then install the requirements in the system by `pip install -r requirement.txt`
 5. Make sure the requirements are installed
 6. 🐍 Then type `python run.py` to start the backend server
 7. ⚡ **Voila!** The backend is now running on your localhost network
